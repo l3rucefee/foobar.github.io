@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<head>
-  <meta charset="UTF-8">
-  <title><title>
+<html>
   <head>
+    <meta charset="UTF-8"/>
+    <title></title>
+    </html>
   <body>
-  Hello World
+    Hello Worlo
   </body>
-    <html>
+</html>
